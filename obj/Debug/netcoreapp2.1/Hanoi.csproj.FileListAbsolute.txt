@@ -1,0 +1,11 @@
+C:\Users\WilliamPfaffe\Documents\DiscreteMath3\Hanoi\obj\Debug\netcoreapp2.1\Hanoi.csprojAssemblyReference.cache
+C:\Users\WilliamPfaffe\Documents\DiscreteMath3\Hanoi\obj\Debug\netcoreapp2.1\Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\WilliamPfaffe\Documents\DiscreteMath3\Hanoi\obj\Debug\netcoreapp2.1\Hanoi.AssemblyInfoInputs.cache
+C:\Users\WilliamPfaffe\Documents\DiscreteMath3\Hanoi\obj\Debug\netcoreapp2.1\Hanoi.AssemblyInfo.cs
+C:\Users\WilliamPfaffe\Documents\DiscreteMath3\Hanoi\bin\Debug\netcoreapp2.1\Hanoi.deps.json
+C:\Users\WilliamPfaffe\Documents\DiscreteMath3\Hanoi\bin\Debug\netcoreapp2.1\Hanoi.runtimeconfig.json
+C:\Users\WilliamPfaffe\Documents\DiscreteMath3\Hanoi\bin\Debug\netcoreapp2.1\Hanoi.runtimeconfig.dev.json
+C:\Users\WilliamPfaffe\Documents\DiscreteMath3\Hanoi\bin\Debug\netcoreapp2.1\Hanoi.dll
+C:\Users\WilliamPfaffe\Documents\DiscreteMath3\Hanoi\bin\Debug\netcoreapp2.1\Hanoi.pdb
+C:\Users\WilliamPfaffe\Documents\DiscreteMath3\Hanoi\obj\Debug\netcoreapp2.1\Hanoi.dll
+C:\Users\WilliamPfaffe\Documents\DiscreteMath3\Hanoi\obj\Debug\netcoreapp2.1\Hanoi.pdb
